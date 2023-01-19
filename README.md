@@ -23,8 +23,8 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
+## Preview
+<img width="1512" alt="Screenshot 2023-01-18 at 8 48 56 PM" src="https://user-images.githubusercontent.com/112153725/213357852-8ac93e0b-8502-4165-b4a8-79a81fc6f67c.png">
+
 ## URL
 https://jxmesin.github.io/C5-WorkDaySched/
-
-Preview
-<img width="1512" alt="Screenshot 2023-01-18 at 8 48 56 PM" src="https://user-images.githubusercontent.com/112153725/213357852-8ac93e0b-8502-4165-b4a8-79a81fc6f67c.png">
